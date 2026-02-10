@@ -123,13 +123,7 @@
         { "month": "Mar", "value": 25800 },
         { "month": "Apr", "value": 31200 },
         { "month": "May", "value": 35100 },
-        { "month": "Jun", "value": 29800 },
-        { "month": "Jul", "value": 38200 },
-        { "month": "Aug", "value": 32800 },
-        { "month": "Sep", "value": 36500 },
-        { "month": "Oct", "value": 40200 },
-        { "month": "Nov", "value": 37800 },
-        { "month": "Dec", "value": 45530 }
+        { "month": "Jun", "value": 29800 }
       ],
       "free": [
         { "month": "Jan", "value": 0 },
@@ -137,13 +131,7 @@
         { "month": "Mar", "value": 0 },
         { "month": "Apr", "value": 0 },
         { "month": "May", "value": 0 },
-        { "month": "Jun", "value": 0 },
-        { "month": "Jul", "value": 0 },
-        { "month": "Aug", "value": 0 },
-        { "month": "Sep", "value": 0 },
-        { "month": "Oct", "value": 0 },
-        { "month": "Nov", "value": 0 },
-        { "month": "Dec", "value": 0 }
+        { "month": "Jun", "value": 0 }
       ],
       "premium": [
         { "month": "Jan", "value": 16100 },
@@ -151,13 +139,7 @@
         { "month": "Mar", "value": 17900 },
         { "month": "Apr", "value": 21600 },
         { "month": "May", "value": 24300 },
-        { "month": "Jun", "value": 20600 },
-        { "month": "Jul", "value": 26400 },
-        { "month": "Aug", "value": 22700 },
-        { "month": "Sep", "value": 25200 },
-        { "month": "Oct", "value": 27800 },
-        { "month": "Nov", "value": 26100 },
-        { "month": "Dec", "value": 31490 }
+        { "month": "Jun", "value": 20600 }
       ],
       "enterprise": [
         { "month": "Jan", "value": 7100 },
@@ -165,13 +147,7 @@
         { "month": "Mar", "value": 7900 },
         { "month": "Apr", "value": 9600 },
         { "month": "May", "value": 10800 },
-        { "month": "Jun", "value": 9200 },
-        { "month": "Jul", "value": 11800 },
-        { "month": "Aug", "value": 10100 },
-        { "month": "Sep", "value": 11300 },
-        { "month": "Oct", "value": 12400 },
-        { "month": "Nov", "value": 11700 },
-        { "month": "Dec", "value": 14040 }
+        { "month": "Jun", "value": 9200 }
       ]
     }
   },
@@ -195,13 +171,7 @@
         { "month": "Mar", "value": 65 },
         { "month": "Apr", "value": 82 },
         { "month": "May", "value": 88 },
-        { "month": "Jun", "value": 75 },
-        { "month": "Jul", "value": 92 },
-        { "month": "Aug", "value": 79 },
-        { "month": "Sep", "value": 85 },
-        { "month": "Oct", "value": 98 },
-        { "month": "Nov", "value": 86 },
-        { "month": "Dec", "value": 102 }
+        { "month": "Jun", "value": 75 }
       ],
       "free": [
         { "month": "Jan", "value": 0 },
@@ -209,13 +179,7 @@
         { "month": "Mar", "value": 0 },
         { "month": "Apr", "value": 0 },
         { "month": "May", "value": 0 },
-        { "month": "Jun", "value": 0 },
-        { "month": "Jul", "value": 0 },
-        { "month": "Aug", "value": 0 },
-        { "month": "Sep", "value": 0 },
-        { "month": "Oct", "value": 0 },
-        { "month": "Nov", "value": 0 },
-        { "month": "Dec", "value": 0 }
+        { "month": "Jun", "value": 0 }
       ],
       "premium": [
         { "month": "Jan", "value": 43 },
@@ -223,13 +187,7 @@
         { "month": "Mar", "value": 45 },
         { "month": "Apr", "value": 57 },
         { "month": "May", "value": 61 },
-        { "month": "Jun", "value": 52 },
-        { "month": "Jul", "value": 64 },
-        { "month": "Aug", "value": 55 },
-        { "month": "Sep", "value": 59 },
-        { "month": "Oct", "value": 68 },
-        { "month": "Nov", "value": 60 },
-        { "month": "Dec", "value": 71 }
+        { "month": "Jun", "value": 52 }
       ],
       "enterprise": [
         { "month": "Jan", "value": 19 },
@@ -237,13 +195,7 @@
         { "month": "Mar", "value": 20 },
         { "month": "Apr", "value": 25 },
         { "month": "May", "value": 27 },
-        { "month": "Jun", "value": 23 },
-        { "month": "Jul", "value": 28 },
-        { "month": "Aug", "value": 24 },
-        { "month": "Sep", "value": 26 },
-        { "month": "Oct", "value": 30 },
-        { "month": "Nov", "value": 26 },
-        { "month": "Dec", "value": 31 }
+        { "month": "Jun", "value": 23 }
       ]
     }
   },
@@ -270,16 +222,6 @@
       "plan": "Enterprise",
       "lastActive": "2024-02-10T10:30:00Z",
       "avatar": "JS"
-    },
-    {
-      "id": "2",
-      "name": "Sarah Johnson",
-      "email": "sarah.j@example.com",
-      "role": "Manager",
-      "status": "Active",
-      "plan": "Premium",
-      "lastActive": "2024-02-10T09:15:00Z",
-      "avatar": "SJ"
     }
   ],
   "ordersList": [
@@ -287,36 +229,20 @@
       "id": "ORD-1001",
       "customer": "John Smith",
       "email": "john.smith@example.com",
-      "product": "Premium Plan - Annual",
+      "product": "Premium Plan",
       "amount": 299,
       "status": "Completed",
       "date": "2024-02-10T09:30:00Z",
       "paymentMethod": "Credit Card"
-    },
-    {
-      "id": "ORD-1002",
-      "customer": "Sarah Johnson",
-      "email": "sarah.j@example.com",
-      "product": "Enterprise Plan - Monthly",
-      "amount": 499,
-      "status": "Processing",
-      "date": "2024-02-10T08:15:00Z",
-      "paymentMethod": "PayPal"
     }
   ],
   "activities": [
     {
       "id": "1",
       "type": "order",
-      "message": "New order received from John Smith",
+      "message": "New order received",
       "amount": 299,
       "time": "2 hours ago"
-    },
-    {
-      "id": "2",
-      "type": "user",
-      "message": "New user registered: Sarah Johnson",
-      "time": "3 hours ago"
     }
   ],
   "analytics": {
@@ -328,8 +254,7 @@
         "bounceRate": { "value": 42.3, "change": -5.1, "isPositive": true }
       },
       "performance": [
-        { "day": "Mon", "visitors": 1200, "conversions": 80, "revenue": 2400 },
-        { "day": "Tue", "visitors": 1500, "conversions": 95, "revenue": 3200 }
+        { "day": "Mon", "visitors": 1200, "conversions": 80, "revenue": 2400 }
       ],
       "devices": [
         { "name": "Desktop", "value": 55, "color": "#3b82f6" },
@@ -337,12 +262,10 @@
         { "name": "Tablet", "value": 10, "color": "#10b981" }
       ],
       "browsers": [
-        { "name": "Chrome", "users": 4500 },
-        { "name": "Safari", "users": 2800 }
+        { "name": "Chrome", "users": 4500 }
       ],
       "topProducts": [
-        { "name": "Premium Plan", "sales": 245, "revenue": 24355, "growth": 12.5 },
-        { "name": "Basic Plan", "sales": 189, "revenue": 5661, "growth": -5.2 }
+        { "name": "Premium Plan", "sales": 245, "revenue": 24355, "growth": 12.5 }
       ]
     },
     "30d": {
@@ -353,8 +276,7 @@
         "bounceRate": { "value": 39.5, "change": -7.3, "isPositive": true }
       },
       "performance": [
-        { "day": "Week 1", "visitors": 8500, "conversions": 520, "revenue": 18400 },
-        { "day": "Week 2", "visitors": 9200, "conversions": 580, "revenue": 21200 }
+        { "day": "Week 1", "visitors": 8500, "conversions": 520, "revenue": 18400 }
       ],
       "devices": [
         { "name": "Desktop", "value": 58, "color": "#3b82f6" },
@@ -362,12 +284,10 @@
         { "name": "Tablet", "value": 10, "color": "#10b981" }
       ],
       "browsers": [
-        { "name": "Chrome", "users": 18500 },
-        { "name": "Safari", "users": 10200 }
+        { "name": "Chrome", "users": 18500 }
       ],
       "topProducts": [
-        { "name": "Premium Plan", "sales": 892, "revenue": 89200, "growth": 15.2 },
-        { "name": "Enterprise", "sales": 456, "revenue": 136800, "growth": 22.8 }
+        { "name": "Premium Plan", "sales": 892, "revenue": 89200, "growth": 15.2 }
       ]
     },
     "12m": {
@@ -378,8 +298,7 @@
         "bounceRate": { "value": 36.8, "change": -9.2, "isPositive": true }
       },
       "performance": [
-        { "day": "Jan", "visitors": 32000, "conversions": 1850, "revenue": 68000 },
-        { "day": "Feb", "visitors": 35000, "conversions": 2100, "revenue": 78000 }
+        { "day": "Jan", "visitors": 32000, "conversions": 1850, "revenue": 68000 }
       ],
       "devices": [
         { "name": "Desktop", "value": 52, "color": "#3b82f6" },
@@ -387,12 +306,10 @@
         { "name": "Tablet", "value": 10, "color": "#10b981" }
       ],
       "browsers": [
-        { "name": "Chrome", "users": 245000 },
-        { "name": "Safari", "users": 135000 }
+        { "name": "Chrome", "users": 245000 }
       ],
       "topProducts": [
-        { "name": "Premium Plan", "sales": 10450, "revenue": 1045000, "growth": 18.5 },
-        { "name": "Enterprise", "sales": 5280, "revenue": 1584000, "growth": 25.3 }
+        { "name": "Premium Plan", "sales": 10450, "revenue": 1045000, "growth": 18.5 }
       ]
     }
   }
